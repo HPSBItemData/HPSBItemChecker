@@ -10,9 +10,9 @@ Uses the originTag ITEM_STASH property to check whether they're duped as part of
 
 ![Image One](https://media.discordapp.net/attachments/713505741931020320/969611130685255701/unknown.png?width=414&height=214)
 
-https://camo.githubusercontent.com/10afef79fade32390e570a250084f87bd323836f23d46449344d911fe525cc99/68747470733a2f2f74686f6d2e636c75622f425a4b705139552e706e67
+![Image Two](https://camo.githubusercontent.com/10afef79fade32390e570a250084f87bd323836f23d46449344d911fe525cc99/68747470733a2f2f74686f6d2e636c75622f425a4b705139552e706e67)
 
-https://camo.githubusercontent.com/7fb6b1032443ee38dd56760f5e3cd7df4186c1e3636c84121ecac4ea3ee712f2/68747470733a2f2f74686f6d2e636c75622f34727545484d592e706e67
+![Image Three](https://camo.githubusercontent.com/7fb6b1032443ee38dd56760f5e3cd7df4186c1e3636c84121ecac4ea3ee712f2/68747470733a2f2f74686f6d2e636c75622f34727545484d592e706e67)
 
 # Why is this useful?
 Many players have been wiped before, now this will prevent it. Don't buy anything before Dupe-Checking it!
