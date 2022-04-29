@@ -23,7 +23,7 @@ Short answer: This mod follows the general interpretation of Hypixel's rules, do
 # Installation
 To install this mod, there are two simple steps.
 
-・Download the mod in order to obtain the HPSBItemData.jar file
-・Once downloaded, head over to your .minecraft folder and find 'mods'
-・Place the downloaded .jar file inside of your mods folder
-・Start minecraft, open the auction house or your inventory and you will now be able to check if an item is duped.
+- Download the mod in order to obtain the HPSBItemData.jar file
+- Once downloaded, head over to your .minecraft folder and find 'mods'
+- Place the downloaded .jar file inside of your mods folder
+- Start minecraft, open the auction house or your inventory and you will now be able to check if an item is duped.
