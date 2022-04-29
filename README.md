@@ -8,7 +8,7 @@ Highlights them in red in your inventory, and adds a lore line "POSSIBLY DUPED".
 
 Uses the originTag ITEM_STASH property to check whether they're duped as part of the Jan - April 2022 Dupes.
 
-https://user-images.githubusercontent.com/103907495/163737858-f29d9167-b157-4d1e-867b-ea61622de9b1.png
+!https://media.discordapp.net/attachments/713505741931020320/969611130685255701/unknown.png?width=414&height=214
 
 https://camo.githubusercontent.com/10afef79fade32390e570a250084f87bd323836f23d46449344d911fe525cc99/68747470733a2f2f74686f6d2e636c75622f425a4b705139552e706e67
 
